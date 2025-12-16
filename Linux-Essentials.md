@@ -3,6 +3,7 @@
 ## O que é Linux?
 
 Linux é um software de sistema operacional que é executado em um sistema de computador de hardware. Um sistema operacional é um software que permite que outros programas, como processadores de texto e navegadores web, sejam instalados e executados em um computador.
+
 A principal razão pela qual aprender Linux é útil, é que Linux é usado em quase todos os lugares! O Linux é usado em computadores desktop e laptop, servidores web, dispositivos móveis (Android), tecnologia de nuvem pública (ou seja, Google, Amazon, etc), Chromebooks e redes (ou seja, Cisco Networks).
 
 ## Quem pode usar o Linux?
