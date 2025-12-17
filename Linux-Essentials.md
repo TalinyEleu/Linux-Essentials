@@ -52,4 +52,30 @@ Work             alpha-third.txt   hello.sh     longfile.txt  people.csv
 adjectives.txt   alpha.txt         hidden.txt   newhome.txt   profile.txt
 alpha-first.txt  animals.txt       letters.txt  numbers.txt   red.txt
 ```
-**_OBS:_**: Neste caso, podemos dar como argumento o caminho absoluto ou o caminho relativo **$ ls Documents ou $ ls /home/Documents**
+**_OBS:_** Neste caso, podemos dar como argumento o caminho absoluto ou o caminho relativo **$ ls Documents ou $ ls /home/Documents**
+
+---
+### Caminho Absoluto
+No Linux, caminho absoluto é o endereço completo de um arquivo ou diretório, começando da raiz **/**.
+
+Exemplo: 
+```
+/home/user/documento.txt
+```
+
+### Caminho Relativo
+O caminho relativo é o endereço a partir da sua localização atual (diretório de trabalho), sem começar com **/** , sendo mais curtos e úteis para mover-se dentro de uma estrutura de pastas. 
+
+Exemplo: 
+```
+documento.txt 
+```
+
+```
+/pasta/arquivo.log
+```
+---
+
+---
+📌 Este material é destinado a fins educacionais e introdutórios.
+
