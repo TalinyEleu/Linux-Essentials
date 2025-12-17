@@ -44,3 +44,12 @@ ls [flags] [diretório]
 sysadmin@localhost:~$ ls
 Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
 ```
+O comando ls pode ser dado o nome de um diretório como um argumento, e ele irá listar o conteúdo desse diretório.
+```
+sysadmin@localhost:~$ ls Documents
+School           alpha-second.txt  food.txt     linux.txt     os.csv
+Work             alpha-third.txt   hello.sh     longfile.txt  people.csv
+adjectives.txt   alpha.txt         hidden.txt   newhome.txt   profile.txt
+alpha-first.txt  animals.txt       letters.txt  numbers.txt   red.txt
+```
+**_OBS:_**: Neste caso, podemos dar como argumento o caminho absoluto ou o caminho relativo **$ ls Documents ou $ ls /home/Documents**
