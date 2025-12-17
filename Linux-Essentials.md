@@ -38,3 +38,9 @@ comando [opcoes…] [argumentos…]
 ls [flags] [diretório]
 ```
 **_OBS:_** Os diretórios são equivalentes a pastas no Windows e Mac OS. Assim como esses sistemas operacionais mais populares, uma estrutura de diretórios Linux tem um nível superior. Não é chamado de **“Meu Computador”**, mas sim o **diretório root (raiz)** e é representado pelo caractere **/**.
+
+#### Exemplo: Listar arquivos no diretório de trabalho atual
+```
+sysadmin@localhost:~$ ls
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+```
