@@ -1,4 +1,4 @@
-# Linux Essentials
+# Linux: Introdução
 
 ## O que é Linux?
 
