@@ -55,6 +55,8 @@ alpha-first.txt  animals.txt       letters.txt  numbers.txt   red.txt
 **_OBS:_** Neste caso, podemos dar como argumento o caminho absoluto ou o caminho relativo **$ ls Documents ou $ ls /home/Documents**
 
 ---
+## EXTRA
+
 ### Caminho Absoluto
 No Linux, caminho absoluto é o endereço completo de um arquivo ou diretório, começando da raiz **/**.
 
