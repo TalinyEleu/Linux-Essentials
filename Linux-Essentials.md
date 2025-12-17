@@ -27,7 +27,7 @@ A maioria dos comandos segue um padrão simples de sintaxe:
 comando [opcoes…] [argumentos…]
 ```
 
-#### Argumentos
+### Argumentos
 Um argumento pode ser usado para especificar algo para o comando agir.
 ```
 comando [opcoes…] [argumentos…]
