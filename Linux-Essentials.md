@@ -16,3 +16,20 @@ Para entender por que as habilidades do Linux são únicas, vamos examinar a int
 - CLI (Command-line interface): A linha de comando do Linux é uma interface baseada em texto que aceita comandos digitados nela. Esses comandos fazem com que uma ação seja executada no sistema operacional do computador.
 
 ![Exemplo de CLI](/imagens/Imagem2.png)
+
+## Sintaxe de Comando Básico
+
+### O que é um comando?
+
+Um comando é um programa de software que, quando executado na CLI (Command-line Interface), executa uma ação no computador. Quando você digita um comando, um processo é executado pelo sistema operacional que pode ler o input (Entrada), manipular dados e produzir output (Saída). Um comando executa um processo no sistema operacional, que faz com que o computador execute um trabalho.
+A maioria dos comandos segue um padrão simples de sintaxe:
+```
+comando [opcoes…] [argumentos…]
+```
+
+#### Argumentos
+Um argumento pode ser usado para especificar algo para o comando agir.
+```
+comando [opcoes…] [argumentos…]
+```
+
