@@ -32,4 +32,9 @@ Um argumento pode ser usado para especificar algo para o comando agir.
 ```
 comando [opcoes…] [argumentos…]
 ```
-
+### LS (List)
+- ls (List, letras minúsculas L e S):  é usado para listar arquivos ou diretórios no Linux e em outros sistemas operacionais baseados no Unix.
+```
+ls [flags] [diretório]
+```
+**_OBS:_** Os diretórios são equivalentes a pastas no Windows e Mac OS. Assim como esses sistemas operacionais mais populares, uma estrutura de diretórios Linux tem um nível superior. Não é chamado de **“Meu Computador”**, mas sim o **diretório root (raiz)** e é representado pelo caractere **/**.
